@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Scoreboard
+comment0.text=\r\n\ This\ class\ represents\ the\ scoreboard\ that\ tracks\ the\ score\ and\ lives\ of\ a\ player.\r\n\ \r\n\ \ \ @authors\ (Rupert\ &\ Raymond\ Van\ Niekerk)\r\n\ @student\ Numbers\ (222894237\ &\ 221154469)\r\n\ @version\ (1)\r\n
+comment1.params=
+comment1.target=Scoreboard()
+comment2.params=points
+comment2.target=void\ addScore(int)
+comment3.params=
+comment3.target=void\ loseLife()
+comment4.params=
+comment4.target=int\ getLives()
+comment5.params=
+comment5.target=boolean\ isOutOfLives()
+comment6.params=
+comment6.target=void\ updateImage()
+numComments=7

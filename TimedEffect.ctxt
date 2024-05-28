@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TimedEffect
+comment0.text=\r\n\ This\ class\ represents\ a\ timed\ effect\ that\ applies\ an\ effect\ for\ a\ certain\ duration.\r\n\ \r\n\ \ @authors\ (Rupert\ &\ Raymond\ Van\ Niekerk)\r\n\ @student\ Numbers\ (222894237\ &\ 221154469)\r\n\ @version\ (1.0)\r\n
+comment1.params=duration\ effect\ endEffect
+comment1.target=TimedEffect(int,\ java.lang.Runnable,\ java.lang.Runnable)
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+numComments=4

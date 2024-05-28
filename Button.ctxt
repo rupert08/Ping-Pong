@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\r\n\ This\ class\ represents\ a\ Button\ in\ the\ game.\r\n\ It\ changes\ the\ world\ or\ stops\ the\ game\ when\ clicked.\r\n\r\n\ @authors\ (Rupert\ &\ Raymond\ Van\ Niekerk)\r\n\ @student\ Numbers\ (222894237\ &\ 221154469)\r\n\ @version\ (1)\r\n
+comment1.params=label
+comment1.target=Button(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+numComments=3
